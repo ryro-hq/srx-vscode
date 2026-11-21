@@ -7,12 +7,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryro-hq/syrox-vscode.git"
+    "url": "https://github.com/ryro-hq/srx-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/ryro-hq/syrox-vscode/issues"
+    "url": "https://github.com/ryro-hq/srx-vscode/issues"
   },
-  "homepage": "https://github.com/ryro-hq/syrox-vscode",
+  "homepage": "https://github.com/ryro-hq/srx-vscode",
   "engines": {
     "vscode": "^1.90.0"
   },

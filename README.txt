@@ -1,14 +1,14 @@
 Syrox for VS Code
 
-Source: https://github.com/ryro-hq/syrox-vscode
-Language server: https://github.com/ryro-hq/syrox
+Source: https://github.com/ryro-hq/srx-vscode
+Language server: https://github.com/ryro-hq/srx
 
 The extension starts the shared Rust server, srx lsp, over stdio. Install srx in
 the extension host environment or configure syrox.serverPath. For WSL/SSH use
 VS Code Remote so that the Linux server and project run in that environment.
 
 Development: run npm ci in this directory, then start VS Code with
-  code --extensionDevelopmentPath=/absolute/path/to/syrox-vscode PROJECT
+  code --extensionDevelopmentPath=/absolute/path/to/srx-vscode PROJECT
 
 Checks: npm ci --ignore-scripts, npm run check, npm run package.
 The tests exercise activation, project-root selection, virtual sources and
